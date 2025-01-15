@@ -22,4 +22,4 @@ COPY . ./app
 EXPOSE 8501
 
 # Set the command to run the Streamlit app
-CMD ["streamlit", "run", "Translator.py"] 
+CMD ["streamlit", "run", "./app/Translator.py"] 
