@@ -3,3 +3,9 @@ langchain_community
 langchain_groq 
 langchain_core 
 python-dotenv
+easyocr
+PyPDF2
+docx
+numpy
+shutil
+tempfile

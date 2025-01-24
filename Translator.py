@@ -1,5 +1,4 @@
 import streamlit as st
-from langchain.schema import AIMessage, HumanMessage
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_groq import ChatGroq
 from dotenv import load_dotenv
