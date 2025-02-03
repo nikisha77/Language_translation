@@ -7,5 +7,4 @@ easyocr
 PyPDF2
 docx
 numpy
-shutil
 tempfile
