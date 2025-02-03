@@ -6,4 +6,5 @@ python-dotenv
 easyocr
 PyPDF2
 docx
+python-docx
 numpy
